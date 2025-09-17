@@ -1,0 +1,2 @@
+## Enables Jupyter to use this virtual environment as a kernel
+ipykernel 
