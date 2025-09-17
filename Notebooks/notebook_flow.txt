@@ -1,0 +1,15 @@
+1 - ##Load the dataset
+
+2 - ## Lets Explore all columns of the dataset with the help of Transpose
+
+3 - ## Lets find the total rows and columns
+
+4 - ## Lets view some extra dataset information (df.info())
+
+5 - ## Lets check the total null values in each feature
+
+6 - ## Before modifying the original dataset lets take a copy
+
+7 - ## Lets drop features [max_glu_serum, A1Cresult]
+
+8 - 
